@@ -1,3 +1,3 @@
 # Comic-AI-Generator
 
-[Documentation](Project Documentation AI Comic Factory.pdf)
+[📄 Documentation](Project%20Documentation%20AI%20Comic%20Factory.pdf)
