@@ -1,3 +1,3 @@
 # Comic-AI-Generator
 
-Documentaion available in pdf format.
+[Documentation](Project Documentation AI Comic Factory.pdf)
